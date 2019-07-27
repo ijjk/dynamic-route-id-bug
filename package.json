@@ -1,0 +1,11 @@
+{
+  "name": "dynamic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.0.3-canary.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
